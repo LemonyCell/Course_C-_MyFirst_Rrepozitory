@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_lesson2
 {
-    class Program
+    enum Gender
     {
-        static void Main(string[] args)
-        {
 
+        Man,
+        Woman
 
-
-        }
-    }
+    };
 }

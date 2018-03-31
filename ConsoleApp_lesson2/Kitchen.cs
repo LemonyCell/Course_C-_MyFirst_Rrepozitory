@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_lesson2
 {
-    class Program
+    class Kitchen
     {
-        static void Main(string[] args)
-        {
+
+        public List<Human> Cookers;
 
 
-
-        }
     }
 }

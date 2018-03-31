@@ -6,13 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_lesson2
 {
-    class Program
+    class Hall
     {
-        static void Main(string[] args)
-        {
 
+        public List<Human> Staff;
+        public List<Human> Administrators;
+        public int Number;
 
-
-        }
     }
 }

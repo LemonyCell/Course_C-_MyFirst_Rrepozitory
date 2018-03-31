@@ -6,13 +6,10 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_lesson2
 {
-    class Program
+    class Bar
     {
-        static void Main(string[] args)
-        {
 
+        public List<Human> Barmens;
 
-
-        }
     }
 }
