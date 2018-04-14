@@ -1,0 +1,24 @@
+додав клас Room
+наслідував класи Bar, Hall, Kitchen від Room
+додав клас Toilet, RoomForStaff, Locker
+замінив неправильні англ слова:
+    Barmen - bartender
+
+додав клас Cleaner, Pantry, PlaceForProducts, Ingredient
+перемістив ліст адміністраторів з Hall у Restaurant
+закоментував змінну Number у класі Hall
+перейменував ліст Staff на Waiters у класі Hall
+
+додав клас Place, Client
+
+added a Room class. Imposed Classroom Bar, Hall, Kitchen from Room. added the class Toilet, RoomForStaff, Locker. replaced the wrong English: Barmen - bartender. Added a Cleaner, Pantry, PlaceForProducts, Ingredient class. Moved the administrators list from Hall to Restaurant. commented on the Number variable in the Hall class. renamed Staff at the Hall Class Waiters. added the Place class, Client 
+ 
+commit
+----------------------------
+
+додав клас Administrator, Supplier
+покищо відмовився від класів Supplier, Pantry, PlaceForProducts, Ingredient, RoomForStaff, Locker
+додав клас Owner
+замінив у лістах Human на відповідний клас
+додав клас Waiter, Order, Bartender, Menu, Meal, Dish, Drink, Cook, OrderStatus, ClientStatus
+додав клас God
