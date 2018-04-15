@@ -11,5 +11,10 @@ namespace ConsoleApp_lesson2
 
         public int NumberOfBooths { get; set; }
 
+        public Toilet()
+        {
+            this.NumberOfBooths = MyRand.RandNum(1, 4);
+        }
+
     }
 }

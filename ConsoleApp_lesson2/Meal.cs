@@ -11,5 +11,10 @@ namespace ConsoleApp_lesson2
 
         public string Name { get; set; }
 
+        public Meal()
+        {
+            this.Name = MyRand.RandSrt(MyRand.RandNum(5,14));
+        }
+
     }
 }

@@ -6,10 +6,22 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp_lesson2
 {
-    class Bar
+    class Bar : Room
     {
 
-        public List<Human> Barmens;
+        public List<Bartender> Bartenders;
+        //public List<> 
+        public List<Place> Places;
+        public List<Client> Clients;
+
+        public Bar()
+        {
+            for (int i = 0; i < MyRand.RandNum(1, 12); i++)
+            {
+                Place p = new Place();
+                this.Places.Add(p);
+            }
+        }
 
     }
 }

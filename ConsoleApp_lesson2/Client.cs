@@ -10,6 +10,8 @@ namespace ConsoleApp_lesson2
     {
 
         public Place Place { get; set; }
+        public List<string> Order;
+        public ClientStatus ClientStatus; // статус клієнта
 
     }
 }

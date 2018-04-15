@@ -31,7 +31,8 @@ namespace ConsoleApp_lesson2
         {
 
             string s = "";
-            for (int i = 0; i < len; i++)
+            s += (char)r.Next('A', 'Z' + 1);
+            for (int i = 1; i < len; i++)
             {
                 s += (char)r.Next('a', 'z' + 1);
             }

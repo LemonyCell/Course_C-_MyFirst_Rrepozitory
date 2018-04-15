@@ -1,0 +1,7 @@
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\bin\Debug\ConsoleApp_lesson2.exe.config
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\bin\Debug\ConsoleApp_lesson2.exe
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\bin\Debug\ConsoleApp_lesson2.pdb
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\obj\Debug\ConsoleApp_lesson2.csprojResolveAssemblyReference.cache
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\obj\Debug\ConsoleApp_lesson2.csproj.CoreCompileInputs.cache
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\obj\Debug\ConsoleApp_lesson2.exe
+C:\Users\Vitya\OneDrive\Documents\алгоритмування\C# курси універ\ConsoleApp_lesson2\Course_C-_MyFirst_Rrepozitory\ConsoleApp_lesson2\obj\Debug\ConsoleApp_lesson2.pdb
