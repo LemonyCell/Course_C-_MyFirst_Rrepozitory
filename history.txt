@@ -21,4 +21,12 @@ commit
 додав клас Owner
 замінив у лістах Human на відповідний клас
 додав клас Waiter, Order, Bartender, Menu, Meal, Dish, Drink, Cook, OrderStatus, ClientStatus
-додав клас God
+додав клас God 
+
+commit
+----------------------------
+
+створив папки Humans, Menu, Rooms, Other
+додав клас Data
+зробив пустим конструктор у класі Restaurant
+залишив класи Human, Restaurant, Owner, Data, MyRand, Gender

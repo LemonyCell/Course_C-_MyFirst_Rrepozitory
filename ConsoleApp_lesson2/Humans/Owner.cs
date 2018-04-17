@@ -9,13 +9,13 @@ namespace ConsoleApp_lesson2
     class Owner : Human
     {
 
-        public List<Restaurant> Restaurants;
+        //public List<Restaurant> Restaurants;
 
 
-        public Owner( ref Restaurant r)
-        {
-            Restaurants.Add(r);
-        }
+        //public Owner( ref Restaurant r)
+        //{
+        //    Restaurants.Add(r);
+        //}
         public Owner()
         {
             
