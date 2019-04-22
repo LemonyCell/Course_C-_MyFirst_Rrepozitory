@@ -1,0 +1,4 @@
+partition,age,firstName,id,lastName
+p,19,Vitya,102b4d40-64f1-11e9-83ce-e90b63b115a2,P
+p,sample age,sample firstName,84e40b50-64fa-11e9-844e-2b2f088855a7,sample lastName
+p,01_sample age,01_sample firstName,921fccf1-64fa-11e9-844e-2b2f088855a7,01_sample lastName
